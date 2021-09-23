@@ -15,6 +15,7 @@
 		2735A59B26FA3705000D2445 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2735A59A26FA3705000D2445 /* CardView.swift */; };
 		2735A59D26FA3A1E000D2445 /* Color+Codable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2735A59C26FA3A1E000D2445 /* Color+Codable.swift */; };
 		2735A59F26FA3FC5000D2445 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2735A59E26FA3FC5000D2445 /* ScrumsView.swift */; };
+		2735A5A126FCDD1A000D2445 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2735A5A026FCDD1A000D2445 /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		2735A59A26FA3705000D2445 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		2735A59C26FA3A1E000D2445 /* Color+Codable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+Codable.swift"; sourceTree = "<group>"; };
 		2735A59E26FA3FC5000D2445 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
+		2735A5A026FCDD1A000D2445 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				2735A58E26FA1E09000D2445 /* Preview Content */,
 				2735A59A26FA3705000D2445 /* CardView.swift */,
 				2735A59E26FA3FC5000D2445 /* ScrumsView.swift */,
+				2735A5A026FCDD1A000D2445 /* DetailView.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -161,6 +164,7 @@
 				2735A58B26FA1E06000D2445 /* MeetingView.swift in Sources */,
 				2735A59F26FA3FC5000D2445 /* ScrumsView.swift in Sources */,
 				2735A59926FA3061000D2445 /* DailyScrum.swift in Sources */,
+				2735A5A126FCDD1A000D2445 /* DetailView.swift in Sources */,
 				2735A59B26FA3705000D2445 /* CardView.swift in Sources */,
 				2735A59D26FA3A1E000D2445 /* Color+Codable.swift in Sources */,
 				2735A58926FA1E06000D2445 /* ScrumdingerApp.swift in Sources */,
